@@ -17,7 +17,6 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 End the program.
 ## Program:
-''' Python
 
 #Program to find the rank of a matrix.
 
@@ -33,8 +32,9 @@ c=np.linalg.matrix_rank(a)
 
 print(c)
 
-'''
 ## Output:
+![image](https://github.com/user-attachments/assets/95dc34c4-d306-499e-8de5-68b98db4fa01)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
